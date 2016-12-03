@@ -11,8 +11,6 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ReactNative.Shared", "..\no
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChakraBridge", "..\node_modules\react-native-windows\ReactWindows\ChakraBridge\ChakraBridge.vcxproj", "{4B72C796-16D5-4E3A-81C0-3E36F531E578}"
 EndProject
-Project("{83F827B3-91D3-C5D1-D5C3-83EE9F5F90C6}") = "RNWinGif", "..\node_modules\react-native-win-gif\windows\RNWinGif\RNWinGif.csproj", "{77EF877B-3F7A-687A-329C-4F7B51AE9B20}"
-EndProject
 Global
 GlobalSection(SharedMSBuildProjectFiles) = preSolution
 	ReactNative.Shared\ReactNative.Shared.projitems*{98efa5d4-a185-4971-ae77-3845e31b84ce}*SharedItemsImports = 4

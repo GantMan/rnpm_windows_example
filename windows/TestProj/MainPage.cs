@@ -1,6 +1,5 @@
 using ReactNative;
 using ReactNative.Modules.Core;
-using Com.Reactlibrary.RNWinGif;
 using ReactNative.Shell;
 using System.Collections.Generic;
 
@@ -33,7 +32,6 @@ namespace TestProj
                 return new List<IReactPackage>
                 {
                     new MainReactPackage(),
-                    new RNWinGifPackage(),
                 };
             }
         }
